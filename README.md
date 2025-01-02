@@ -1,1 +1,1 @@
-# PokeAPIPWA
+# wolpic-frontend
